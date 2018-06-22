@@ -1,0 +1,10 @@
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\bin\Debug\NearbyShops.exe.config
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\bin\Debug\NearbyShops.exe
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\bin\Debug\NearbyShops.pdb
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.csprojAssemblyReference.cache
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.Properties.Resources.resources
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.exe
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.pdb
+C:\Users\Ben\source\repos\NearbyShops\NearbyShops\obj\Debug\NearbyShops.FrmNearbyShops.resources
